@@ -1,5 +1,5 @@
 #include <iostream>   // Standard input/output stream library (for input and output operations)
-#include <string>     // Standard string library (for string data type) #include <cctype>   // Included the cctype library for character handling
+#include <string>     // Standard string library (for string data type)
 #include <iomanip> 
 #include <cctype>   // Included the iomanip library for formatting output
 #include <fstream>
